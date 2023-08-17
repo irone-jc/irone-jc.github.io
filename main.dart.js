@@ -72955,7 +72955,7 @@ iX(a,b){return this.Qa(a,b)},
 Qa(a,b){var s=0,r=A.X(t.VU),q,p=this,o,n,m,l,k,j,i,h,g,f,e
 var $async$iX=A.Y(function(c,d){if(c===1)return A.U(d,r)
 while(true)switch(s){case 0:h=p.a
-g=b?"https://stg.soundplatform.co.kr/v0/ticket/check/identifier":"https://sleep.soundplatform.co.kr/v0/ticket/check/identifier"
+g=b?"https://sleep.soundplatform.co.kr/v0/ticket/check/identifier":"https://stg.soundplatform.co.kr/v0/ticket/check/identifier"
 f=t.z
 e=A.ay(["identifier",a],t.N,f)
 if(h.db)A.Q("Can not emit events to disposed clients")
@@ -72983,7 +72983,7 @@ jz(a,b,c){return this.acW(a,b,c)},
 acW(a,b,c){var s=0,r=A.X(t.Nh),q,p=this,o,n,m,l,k,j,i,h,g,f,e
 var $async$jz=A.Y(function(d,a0){if(d===1)return A.U(a0,r)
 while(true)switch(s){case 0:h=p.a
-g=c?"https://stg.soundplatform.co.kr/v0/ticket/register":"https://sleep.soundplatform.co.kr/v0/ticket/register"
+g=c?"https://sleep.soundplatform.co.kr/v0/ticket/register":"https://stg.soundplatform.co.kr/v0/ticket/register"
 f=t.z
 e=A.ay(["identifier",a,"ticket_code",b],t.N,f)
 if(h.db)A.Q("Can not emit events to disposed clients")
@@ -73261,7 +73261,7 @@ r=q}q=t.p
 return A.fL(A.a([new A.bT(B.kB,j,k),h,i,B.Ij,A.qq(B.cK,A.a([s,new A.fF(B.jm,k,k,r,k)],q),B.ag,B.dO)],q),B.aG,B.au)}}
 A.aeK.prototype={
 $0(){var s=null,r=this.a,q=r.ay
-q=q.gl(q)>10?"\uc774\uc6a9\uad8c \ub4f1\ub85d \uc548\ub0b4   hi prod":"\uc774\uc6a9\uad8c \ub4f1\ub85d \uc548\ub0b4"
+q=q.gl(q)>10?"\uc774\uc6a9\uad8c \ub4f1\ub85d \uc548\ub0b4   hi stage":"\uc774\uc6a9\uad8c \ub4f1\ub85d \uc548\ub0b4"
 return A.pj(s,A.cW(q,s,s,s,A.C_(B.ci,1.25,14),s,s),B.a8,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aeJ(r),s,s,s,s,s,s)},
 $S:438}
 A.aeJ.prototype={
