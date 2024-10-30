@@ -77557,7 +77557,7 @@ l.a4A(m,B.ip)
 p=A.aJ0(B.jb)
 p.a="POST"
 s=3
-return A.w(o.GA(0,"https://corsproxy.io/?http://221.146.63.208:7980/audio_mixing",null,l,null,null,p,null,n),$async$yc)
+return A.w(o.GA(0,"http://221.146.63.208:7980/audio_mixing",null,l,null,null,p,null,n),$async$yc)
 case 3:q=c
 s=1
 break
