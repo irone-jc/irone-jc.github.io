@@ -77561,7 +77561,7 @@ k.a4A(l,B.ip)
 p=A.aJ0(A.aH(["Origin","https://irone-jc.github.io","X-Requested-With","XMLHttpRequest"],n,m),B.jb)
 p.a="POST"
 s=3
-return A.w(o.GA(0,"https://ironecorsproxy-c21bb54e3330.herokuapp.com/http://221.146.63.208:7980/audio_mixing",null,k,null,null,p,null,m),$async$yc)
+return A.w(o.GA(0,"https://ironecorsproxy-c21bb54e3330.herokuapp.com/http://121.130.30.40:7980/audio_mixing",null,k,null,null,p,null,m),$async$yc)
 case 3:q=c
 s=1
 break
